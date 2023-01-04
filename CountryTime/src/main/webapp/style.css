@@ -1,0 +1,29 @@
+@charset "UTF-8";
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
+body{
+background-color:pink;
+display:flex;
+justify-content:center;
+align-items:center;
+padding: 30px;
+margin:50px;
+flex-direction:column;
+}
+select{
+padding:10px;
+}
+.CountryTime{
+padding:20px;
+margin:40px;
+}
+button{
+border:none;
+background:none;
+}
+h2{
+text-align:center;
+}
